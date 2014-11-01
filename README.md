@@ -1,14 +1,13 @@
 hello-world
 ===========
-dit kan evt dienen voor inglu Replication scripts
-en nu ga ik daar nog wat meer commentaar bij voegen
+top level inglu replication process
 
-open email
-save email xlsx attachment to win dir
-ftp Replication YYYYMM to unix script dir
-do basic checks
+email with xl Replication YYYYMM
+save email xl attachment to win dir
+ftp xl file from win dir to unix dir
+perform sanity check on xl
 
-1 generate new trades from Replication YYYYMM in csv
+1 generate new trades fromxl in csv
 2 transform new trades csv into new trades xml
 3 export existing trades in Rep portfolios
 4 import existing trades with action CANCEL

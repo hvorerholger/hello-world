@@ -31,6 +31,12 @@ def index():
     return template(index_html, author='Walter Van Mulders')
 
 
+#requestRouting-----------------------------------------------
+@app.route('/hello/walter')
+def greet(name='Stranger'):
+    return template('Hello {{name}}, how are you?', name=name)
+
+
 #httpRequest--------------------------------------------------
 @app.get('/login') # or @route('/login')
 def login():
@@ -58,6 +64,30 @@ def check_login (uid,pwd):
         return False
 
 
+#httpHeaders--------------------------------------------------
+@app.route('/is_ajax')
+def is_ajax():
+    if request.headers.get('X-Requested-With') == 'XMLHttpRequest':
+        return 'This is an AJAX request'
+    else:
+        return 'This is a normal request'
+
+
+#QueryVariables-----------------------------------------------
+@app.route('/forum')
+def display_forum():
+    forum_id = request.query.id
+    page = request.query.page or '1'
+    return template('Forum ID: {{id}} (page {{page}})', id=forum_id, page=page)
+
+
+#requestData--------------------------------------------------
+@app.route('/hello2')
+def hello():
+    name = request.cookies.username or 'Guest'
+    return template('Hello {{name}}', name=name)
+
+    
 #WSGI_Environment---------------------------------------------
 @app.route('/my_ip')
 def show_ip():

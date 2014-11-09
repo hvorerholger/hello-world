@@ -1,6 +1,7 @@
 
 def main():
     '''business logic for when running this module as the primary one!'''
+    print("From inside MyScript")
     setup()
     do_important()
     do_even_more_important()
@@ -21,5 +22,5 @@ def do_even_more_important():
 
 # Here's our payoff idiom!
 if __name__ == '__main__':
-    #main()
-    print ("onnozelaar")
+    main()
+    print ("onnozelaar")  #something you dont want executed when called from Outside

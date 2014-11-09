@@ -5,7 +5,11 @@
 #called module will be known to the Python interpreter with its own file name and therefore
 #not be confused with the __main__ script
 
+def OutSideScript():
+    import MyScript
+    MyScript.main()
 
-import MyScript
 
-MyScript.main()
+if __name__ == '__main__':
+    print("From Outside script")
+    OutSideScript()

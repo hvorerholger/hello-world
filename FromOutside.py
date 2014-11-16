@@ -11,5 +11,5 @@ def OutSideScript():
 
 
 if __name__ == '__main__':
-    print("From Outside script")
     OutSideScript()
+    print("From Outside script")

@@ -1,0 +1,6 @@
+#!/bin/sh
+#set the variable and read out the variable
+
+$MYVARIABLE="fuck off"
+echo $MYVARIABLE
+

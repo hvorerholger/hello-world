@@ -105,7 +105,6 @@ def counter():
     response.set_cookie('counter', str(count))
     return 'You visited this page %d times' % count
 
-
     
 #--------------------------------------------------------------
 if __name__ == '__main__':

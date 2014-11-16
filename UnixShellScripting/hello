@@ -1,0 +1,4 @@
+#!/bin/sh
+#dit programma zegt vriendelijk goedendag
+
+echo Hallo allemaal! ; exit 0

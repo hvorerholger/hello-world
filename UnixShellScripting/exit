@@ -1,0 +1,8 @@
+#!/bin/sh
+#variable $? holds the exit status of the last executed command or script
+
+true
+echo $?
+false
+echo $?
+

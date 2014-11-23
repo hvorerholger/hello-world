@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<title>My Website</title>
+	</head>
+	<body bgcolor="black" text="white" vlink="blue" alink="blue">
+		
+
+		<center>
+		<H1> WELCOME TO MY WEBSITE!</H1>
+		<HR>
+		<img src="http://www.gifs.net/Animation11/Computers_and_Technology/Computers_and_Parts/Apple_dances.gif"/>
+			<table border="1" width="75%" bgcolor="251111">
+				<tr>
+					<td colspan="2"><h1><p align="center"><img src="logo.jpg"/></p></h1></td>
+				</tr>
+
+				<tr>
+					<td width="25%">		
+						<ul>
+							<li><a href="about.html">About Me</a></li>
+							<li><a href="http://www.google.com">Google</a></li>
+						</ul>
+					</td>
+					<td bgcolor="0A1616"><p><b><i>Welcome to my data page!</b></i> This page is a work in progress that will eventually show places for data input, as well as data recall. Check back here for updates and more information! Thanks for visiting!</p>
+		</td>
+				</tr>
+				<tr>
+					<td colspan="2"></td>
+				</tr>
+
+			</table>
+		<center>
+	</body>
+</html>

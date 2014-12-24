@@ -1,0 +1,4808 @@
+<?xml version="1.0"?>
+<TRADELIST>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>1M</MatDate>
+            <Notional>8466331.67</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0070</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>1M</MatDate>
+            <Notional>10243245.94</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0153</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>1M</MatDate>
+            <Notional>170107147.66</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0038</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>2M</MatDate>
+            <Notional>12968053.09</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0416</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>2M</MatDate>
+            <Notional>25486516.59</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0110</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>2M</MatDate>
+            <Notional>40494650.85</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0058</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>3M</MatDate>
+            <Notional>12986640.48</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0312</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>3M</MatDate>
+            <Notional>15018199.57</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0129</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>3M</MatDate>
+            <Notional>28555909.97</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0189</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>4M</MatDate>
+            <Notional>2596893.84</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">-0.0224</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>4M</MatDate>
+            <Notional>6946872.15</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0335</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>4M</MatDate>
+            <Notional>29394806.80</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0190</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>5M</MatDate>
+            <Notional>2266911.06</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0084</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>5M</MatDate>
+            <Notional>10120531.94</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0210</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>5M</MatDate>
+            <Notional>8730520.93</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0181</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>6M</MatDate>
+            <Notional>7442916.70</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0140</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>6M</MatDate>
+            <Notional>6056055.18</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0093</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>6M</MatDate>
+            <Notional>25759523.92</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0082</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>7M</MatDate>
+            <Notional>8145874.38</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0096</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>7M</MatDate>
+            <Notional>7720723.91</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0217</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>7M</MatDate>
+            <Notional>50797333.78</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0107</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>8M</MatDate>
+            <Notional>9786806.91</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0249</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>8M</MatDate>
+            <Notional>39216790.43</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0183</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>9M</MatDate>
+            <Notional>1504296.08</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0553</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>9M</MatDate>
+            <Notional>1616283.41</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0129</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>9M</MatDate>
+            <Notional>57770351.12</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0067</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>10M</MatDate>
+            <Notional>4311295.61</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0091</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>10M</MatDate>
+            <Notional>2379407.78</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0106</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>10M</MatDate>
+            <Notional>19895073.03</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0097</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>11M</MatDate>
+            <Notional>4663582.47</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0045</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>11M</MatDate>
+            <Notional>4882712.63</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0239</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>11M</MatDate>
+            <Notional>24149710.29</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0239</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>12M</MatDate>
+            <Notional>12405223.73</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0108</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>12M</MatDate>
+            <Notional>3560525.08</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0117</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>12M</MatDate>
+            <Notional>35402035.92</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0135</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>13M</MatDate>
+            <Notional>9346806.05</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0096</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>13M</MatDate>
+            <Notional>7919247.00</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0161</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>13M</MatDate>
+            <Notional>91174340.00</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0170</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>14M</MatDate>
+            <Notional>14052639.69</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0121</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>14M</MatDate>
+            <Notional>14040536.85</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0158</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>14M</MatDate>
+            <Notional>65831100.19</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0107</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>15M</MatDate>
+            <Notional>4328880.17</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0347</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>15M</MatDate>
+            <Notional>1711495.02</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0347</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>15M</MatDate>
+            <Notional>57770351.12</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0077</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>16M</MatDate>
+            <Notional>1602042.83</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">-0.0067</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>16M</MatDate>
+            <Notional>14108468.33</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0246</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>16M</MatDate>
+            <Notional>42285452.69</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0125</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>17M</MatDate>
+            <Notional>9720145.55</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0116</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>17M</MatDate>
+            <Notional>26191562.82</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0205</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>18M</MatDate>
+            <Notional>4532330.98</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0100</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>18M</MatDate>
+            <Notional>7109461.81</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0065</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>18M</MatDate>
+            <Notional>14178601.76</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0176</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>19M</MatDate>
+            <Notional>8884819.03</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0103</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>19M</MatDate>
+            <Notional>25450688.99</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0187</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>20M</MatDate>
+            <Notional>764425.44</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0317</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>20M</MatDate>
+            <Notional>6435999.42</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0279</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>20M</MatDate>
+            <Notional>56640565.92</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0159</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>21M</MatDate>
+            <Notional>3969894.47</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0283</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>21M</MatDate>
+            <Notional>9393284.00</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0056</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>21M</MatDate>
+            <Notional>24553188.59</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0150</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>22M</MatDate>
+            <Notional>3775098.37</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0135</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>22M</MatDate>
+            <Notional>57475355.03</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0106</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>23M</MatDate>
+            <Notional>1627570.88</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0273</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>23M</MatDate>
+            <Notional>57770351.12</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0093</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>24M</MatDate>
+            <Notional>2130507.72</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0158</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>24M</MatDate>
+            <Notional>59528196.47</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0115</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>25M</MatDate>
+            <Notional>12774144.91</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0186</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>25M</MatDate>
+            <Notional>9769620.85</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0232</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>25M</MatDate>
+            <Notional>57475355.03</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0114</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>26M</MatDate>
+            <Notional>8274912.88</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0253</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>26M</MatDate>
+            <Notional>27783151.05</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0199</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>26M</MatDate>
+            <Notional>10067978.78</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0254</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>27M</MatDate>
+            <Notional>6690140.47</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0144</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>27M</MatDate>
+            <Notional>17902575.84</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0410</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>28M</MatDate>
+            <Notional>8746018.45</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0197</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>28M</MatDate>
+            <Notional>11392588.13</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0247</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>28M</MatDate>
+            <Notional>21404428.87</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0290</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>29M</MatDate>
+            <Notional>8345020.11</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0129</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>29M</MatDate>
+            <Notional>6499108.71</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0239</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>29M</MatDate>
+            <Notional>43652604.70</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0239</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>30M</MatDate>
+            <Notional>4821207.03</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0129</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>30M</MatDate>
+            <Notional>3111966.61</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0197</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>30M</MatDate>
+            <Notional>21375324.42</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0204</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>31M</MatDate>
+            <Notional>5430582.91</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0168</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>31M</MatDate>
+            <Notional>9465328.04</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0221</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>31M</MatDate>
+            <Notional>38176033.47</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0221</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>32M</MatDate>
+            <Notional>1511274.03</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0162</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>32M</MatDate>
+            <Notional>7632073.23</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0193</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>32M</MatDate>
+            <Notional>84960848.87</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0193</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>33M</MatDate>
+            <Notional>3570611.11</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0184</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>33M</MatDate>
+            <Notional>2424425.12</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0184</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>33M</MatDate>
+            <Notional>36829782.88</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0184</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>34M</MatDate>
+            <Notional>2874197.06</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0164</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>34M</MatDate>
+            <Notional>13967702.28</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0094</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>34M</MatDate>
+            <Notional>62831685.44</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0164</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>35M</MatDate>
+            <Notional>4543125.37</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0175</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>35M</MatDate>
+            <Notional>57770351.10</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0115</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>36M</MatDate>
+            <Notional>6391523.17</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0191</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>36M</MatDate>
+            <Notional>53962428.11</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0191</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>37M</MatDate>
+            <Notional>6705382.89</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0150</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>37M</MatDate>
+            <Notional>12240429.67</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0172</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>37M</MatDate>
+            <Notional>84496400.81</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0182</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>38M</MatDate>
+            <Notional>574171.02</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.2497</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>38M</MatDate>
+            <Notional>20688061.53</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0172</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>38M</MatDate>
+            <Notional>47741260.32</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0069</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>39M</MatDate>
+            <Notional>5413421.76</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0122</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>40M</MatDate>
+            <Notional>4275571.09</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0167</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>40M</MatDate>
+            <Notional>5967996.81</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0167</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>41M</MatDate>
+            <Notional>11142457.63</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0114</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>41M</MatDate>
+            <Notional>7875904.17</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0114</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>42M</MatDate>
+            <Notional>5463606.49</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0103</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>42M</MatDate>
+            <Notional>2991195.34</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0189</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>42M</MatDate>
+            <Notional>1647133.96</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0114</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>43M</MatDate>
+            <Notional>2379407.78</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0195</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>43M</MatDate>
+            <Notional>23870630.16</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0076</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>44M</MatDate>
+            <Notional>13738280.61</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0108</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>44M</MatDate>
+            <Notional>65100688.55</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0190</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>45M</MatDate>
+            <Notional>3608530.03</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0205</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>46M</MatDate>
+            <Notional>14645302.38</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0106</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>46M</MatDate>
+            <Notional>62831685.44</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0193</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>47M</MatDate>
+            <Notional>5553478.51</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0052</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>48M</MatDate>
+            <Notional>10894003.96</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0160</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>48M</MatDate>
+            <Notional>37827966.96</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0160</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>49M</MatDate>
+            <Notional>6705382.88</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0181</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>50M</MatDate>
+            <Notional>3658382.53</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0176</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>50M</MatDate>
+            <Notional>3632379.96</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0176</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>50M</MatDate>
+            <Notional>26996433.90</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0157</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>51M</MatDate>
+            <Notional>10826843.53</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0152</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>51M</MatDate>
+            <Notional>47741260.32</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0088</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>52M</MatDate>
+            <Notional>23870630.16</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0089</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>53M</MatDate>
+            <Notional>9451085.00</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0137</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>54M</MatDate>
+            <Notional>688743.86</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0000</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>54M</MatDate>
+            <Notional>466993.58</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0000</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>54M</MatDate>
+            <Notional>716145.18</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0137</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>55M</MatDate>
+            <Notional>16897763.19</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0096</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>56M</MatDate>
+            <Notional>143223780.98</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0096</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMCB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>58M</MatDate>
+            <Notional>57761959.13</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0075</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>60M</MatDate>
+            <Notional>10894003.95</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0188</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>61M</MatDate>
+            <Notional>7695115.14</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0208</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>62M</MatDate>
+            <Notional>5923095.53</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0183</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>62M</MatDate>
+            <Notional>13034118.04</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0216</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>63M</MatDate>
+            <Notional>5553478.51</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0063</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>64M</MatDate>
+            <Notional>5967996.81</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0220</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>65M</MatDate>
+            <Notional>6073435.75</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0195</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>66M</MatDate>
+            <Notional>4041930.88</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0220</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>67M</MatDate>
+            <Notional>16675452.26</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0139</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>68M</MatDate>
+            <Notional>10417219.85</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0161</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>69M</MatDate>
+            <Notional>3608530.02</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0259</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>73M</MatDate>
+            <Notional>11542672.69</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0233</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>75M</MatDate>
+            <Notional>5413421.76</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0205</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMPB</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>78M</MatDate>
+            <Notional>1033115.80</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0000</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>P</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>78M</MatDate>
+            <Notional>875612.96</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0000</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>LOAN</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>80M</MatDate>
+            <Notional>9963182.24</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0131</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>83M</MatDate>
+            <Notional>3792990.82</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0095</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+   <MM>
+      <TradeId/>
+      <Env SINGLE="Y" TYPE="EntList">
+         <ENV>
+            <TradeId/>
+            <Cust>INTEINT</Cust>
+            <Company>INGLU</Company>
+            <Desk>LUDESK</Desk>
+            <Book>LUMMRE</Book>
+         </ENV>
+      </Env>
+      <Back SINGLE="Y" TYPE="EntList">
+         <BACK>
+            <TradeId/>
+         </BACK>
+      </Back>
+      <Assets SINGLE="N" TYPE="EntList">
+         <ASSET>
+            <TradeId/>
+            <Type>MM</Type>
+            <PorS>S</PorS>
+            <EffDate>20141130</EffDate>
+            <MatDate>84M</MatDate>
+            <Notional>5553478.50</Notional>
+            <Ccy>EUR</Ccy>
+            <INTEREST_Rate TYPE="Numeric">0.0084</INTEREST_Rate>
+            <INTEREST_dmIndex>FIXED</INTEREST_dmIndex>
+            <MMType>DEPOSIT</MMType>
+         </ASSET>
+      </Assets>
+   </MM>
+</TRADELIST>

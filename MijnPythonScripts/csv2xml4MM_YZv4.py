@@ -18,18 +18,19 @@
 # check for file permission attributes
 # cannot move the *.xml outfile as long as the source file is open in python.exe (IDLE)/ until the shell is closed
 # logic mimic almSwapUpload
-# 
 
-import csv
-import argparse
-parser = argparse.ArgumentParser(description='convert csv File to xml File')
-parser.add_argument("-I", dest="input_file", required=True)
-args = parser.parse_args()
+#print('altijd doe ik dit eerst')
 
-def transformCsv2Xml():
-    csvFile = args.input_file 
-    xmlFile = args.input_file.replace(".csv",".xml")
+def parseCmdLineInput():
+    import argparse
+    parser = argparse.ArgumentParser(description='convert csv File to xml File')
+    parser.add_argument("-I", dest="input_file", required=True)
+    args = parser.parse_args()
+    return args.input_file
 
+def processCsv2Xml(csvFile):
+    import csv
+    xmlFile = csvFile.replace(".csv",".xml")
     csvData = csv.reader(open(csvFile))
     xmlData = open(xmlFile, 'w')
     xmlData.write('<?xml version="1.0"?>' + "\n")
@@ -44,7 +45,7 @@ def transformCsv2Xml():
             # replace spaces w/ underscores in tag names
             for i in range(len(tags)):
                 tags[i] = tags[i].replace(' ', '_')
-                print (tags[i])
+                #print (tags[i])
         else:
 
             # xmlData.write('<row>' + "\n")
@@ -103,4 +104,15 @@ def transformCsv2Xml():
     xmlData.close()
 
 if __name__== '__main__':
-    transformCsv2Xml()
+
+    #--when executing from command line invoking a starting method to pass the cmd line arguments
+    import sys
+    parseCmdLineInput()             
+    processCsv2Xml(sys.argv[2])
+    sys.exit(0)
+    """
+    #--when wanting to Run F5 within IDLE to debug the python script that takes cmd line arguments
+    processCsv2Xml('Replication_201410.csv')
+    """
+
+    

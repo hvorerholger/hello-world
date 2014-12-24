@@ -13,8 +13,8 @@ t8 = 'replication-201912.csv'      #--datepart abiding upper year boundary
 #--start of negative tests
 t9 = 'Suivi replication201501.csv' #--filename should start with "replication"(IGNORECASE)
 t10 = 'replication201501.csv'      #--datepart not preceded by space/dash/underscore
-t11 = 'Replication_201312.csv'     #--datepart violating lower year boundary
-t12 = 'Replication_202001.csv'     #--datepart violating upper year boundary
+t11 = 'Replication_201312.csv'     #--datepart violating lower year boundary 2014
+t12 = 'Replication_202001.csv'     #--datepart violating upper year boundary 2019
 t13 = 'Replication_201500.csv'     #--datepart not a valid month 
 t14 = 'Replication_201513.csv'     #--datepart not a valid month 
 t15 = 'Replication_201501.xls'     #--not a valid file extension
@@ -25,12 +25,14 @@ testlist = [t1,t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12, t13, t14, t15, t16
 
 def validFileName(myFileName):
     try:
-        assert (re.search\
-                (r'(?P<prefix>^replication)(?P<delimiter>[\s|_|-])(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]csv$)'\
-                 , myFileName, re.IGNORECASE)) is not None
+        assert (re.search\          #pattern
+                (r'(?P<prefix>^replication)(?P<delimiter>[\s|_|-])(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]csv$)',\ 
+                 myFileName,\       #in string
+                 re.IGNORECASE))\   #with flags
+                 is not None
         
     except AssertionError:
-        #print ('Invalid FileNamePattern: ', myFileName, '\t', 'expecting: replication_YYYYMM.csv') # catch better gaat dit naar stdout?
+        #print ('Invalid FileNamePattern: ', myFileName, '\t', 'expecting: replication_YYYYMM.csv') # gaat dit naar stdout?
         return False
     else:
         #searchObj = re.search(r'(?P<prefix>^replication)(?P<delimiter>[\s|_|-])(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]csv$)', myFileName, re.IGNORECASE)

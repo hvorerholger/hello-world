@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First JavaScript</h1>
+<p>JavaScript can change the content of an HTML element:</p>          <!-- ............-->
+<button type="button" onclick="myFunction1a()">Click Me!</button>
+<button type="button" onclick="myFunction1b()">Undo</button>
+<p id="demo1">This is a demonstration.</p>
+
+<script>
+function myFunction1a() { 
+    document.getElementById("demo1").innerHTML = "Hello JavaScript!";
+}
+function myFunction1b() { 
+    document.getElementById("demo1").innerHTML = "This is a demonstration";
+}
+</script>
+<br>
+<hr>
+<br>
+<p id="demo2">JavaScript can change the style of an HTML element.</p> <!-- ............-->
+
+<script>
+function myFunction2a() {
+    document.getElementById("demo2").style.fontSize = "25px"; 
+}
+function myFunction2b() {
+    document.getElementById("demo2").style.fontSize = "16px"; 
+}
+
+</script>                                                             
+
+<button type="button" onclick="myFunction2a()">Click Me!</button>
+<button type="button" onclick="myFunction2b()">Undo</button>
+<br>
+<hr>
+<br>
+<script>                                                              <!-- ............-->
+function light(sw) {
+    var pic;
+    if (sw == 0) {
+        pic = "images/bulboff.jpg"									  <!-- zamzar.com    -->
+    } else {
+        pic = "images/bulbon.jpg"
+    }
+    document.getElementById('myImage').src = pic;
+}
+</script>
+
+<img id="myImage" src="images/bulboff.jpg" width="225" height="300">
+
+<p>
+<button type="button" onclick="light(1)">Light On</button>
+<button type="button" onclick="light(0)">Light Off</button>
+</p>
+
+</body>
+</html>

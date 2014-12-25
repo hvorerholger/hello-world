@@ -11,6 +11,7 @@
 
 import os,csv,calendar,re,decimal,shutil
 from openpyxl import load_workbook, Workbook, cell, styles
+import argparse
 
 
 def parseCmdLineInput():
@@ -36,14 +37,14 @@ def validateFileName(myFileName):
         print ('BINGO! valid filename: ', '\t', myFileName, '\t','year: ',searchObj.group('year'),'   month: ',searchObj.group('month'))
         return True
 
-def processXls2Csv(xlsFile):
+def processXls2Csv(myxlsFile):
     import os,csv,calendar,re,decimal,shutil
     from openpyxl import load_workbook, Workbook, cell, styles
 
-    inputFileName_original = re.findall('Replication.+\.xlsx', args.input_file)[0]   #?? unsave -- should assert it is not null!! empty list
+    inputFileName_original = re.findall('Replication.+\.xlsx', myxlsFile)[0]   #?? unsave -- should assert it is not null!! empty list
     inputFileName_new = "PROGNOSIS_" + inputFileName_original
-    inputFile_new = args.input_file.replace(inputFileName_original,inputFileName_new) #?? why is this// kan dit niet eenvoudiger??
-    shutil.copyfile(args.input_file, inputFile_new)
+    inputFile_new = myxlsFile.replace(inputFileName_original,inputFileName_new) #?? why is this// kan dit niet eenvoudiger??
+    shutil.copyfile(myxlsFile, inputFile_new)
             
     wb = load_workbook(inputFile_new)
     try:
@@ -62,12 +63,12 @@ def processXls2Csv(xlsFile):
     ws_trade = wb.create_sheet()
     ws_trade.title = 'trade'
 
-    csvFile = args.input_file.replace(".xlsx",".csv").replace(".xls","csv")
+    csvFile = myxlsFile.replace(".xlsx",".csv").replace(".xls","csv")
     csvOpen = open(csvFile,'w',newline="")
     csvData = csv.writer(csvOpen)
 
     #---------------extract date from file name--------------
-    yearMonth = re.findall('Replication.+\.xlsx', args.input_file)[0][12:18]
+    yearMonth = re.findall('Replication.+\.xlsx', myxlsFile)[0][12:18]
     year = yearMonth[0:4]
     month = yearMonth[4:6]
     day = calendar.monthrange(int(year),int(month))[1]
@@ -128,13 +129,23 @@ def processXls2Csv(xlsFile):
 
     wb.save(inputFile_new)
 
+def main():
+    parseCmdLineInput()
+    validate_inputFile() #valid name, file exists, >0Kb, readable, content-checks, duplicate processing check (outfile already exists)
+    processXls2Csv(xlsFile)
+    archiveProcessedFile()
+    #--
+    emailPrognosis()
+    extractRealized()
+    emailRealized()
+
 
 if __name__ == '__main__':
     #assert validateFileName('replication_201411.csv')
     #assert validateFileName('zomaarEenFileName.txt')
-    import os.path
-    assert os.path.isfile('PROGNOSIS_replication-201401.xlsx')
-    
-    processXls2Csv('Replication_201411.xlsx')
+    #import os.path
+    #assert os.path.isfile('PROGNOSIS_replication-201401.xlsx')
+    xlsFile=parseCmdLineInput()
+    processXls2Csv(xlsFile)
     assert os.path.isfile('PROGNOSIS_Replication_201411.xlsx')
     assert os.path.isfile('Replication_201411.csv')       

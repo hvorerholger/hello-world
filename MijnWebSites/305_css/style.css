@@ -1,0 +1,51 @@
+			b{
+				color:#000000;
+			}
+			a{
+			text-decoration:none;
+			color:grey;
+			}
+			img{
+			display:block;
+			margin:auto;
+			}
+			p.welcome {
+				text-align:center;
+				font-family: “verdana”;
+				font-size:1.875em;
+				color:white;
+				font-style:bold;				
+			}
+			p.content {
+				font-family: “verdana”;
+				font-size:1em;
+				color:white;
+				font-style:italic;				
+			}
+			div.main{
+				width:50%;
+				margin:auto;
+				background:#251111;
+			}
+			div.row1{
+			width:100%;
+			}
+			div.row2{
+			width:100%;
+			}
+			div.row2col1{
+				float:left;
+				margin:0;
+				padding:1em;
+				color:white;
+			}
+			div.row2col2{
+				margin-left:25%;
+				background-color:#0A1616;
+				padding:1em;
+				border:15px solid #251111;
+			}
+			body{
+				background-color:#393635;
+				color:white;
+			}

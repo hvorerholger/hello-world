@@ -1,57 +1,59 @@
+#--regex tested and validated with PYTHEX.ORG-----------------------------------------------------------------
+
 import re
-#--testcases------------------------------------------------------------------------------------
-#--regex tested with pythex.org-----------------------------------------------------------------
-#--should test positive
-t1 = 'replication-201501.csv'      #--lowercase
-t2 = 'REPLICATION-201501.CSV'      #--uppercase
-t3 = 'Replication-201501.csv'      #--mix lowercase uppercase
-t4 = 'Replication 201501.csv'      #--datepart preceded by space
-t5 = 'Replication_201501.csv'      #--datepart preceded by underscore
-t6 = 'Replication-201501.csv'      #--datepart preceded by dash
-t7 = 'replication-201401.csv'      #--datepart abiding lower year boundary
-t8 = 'replication-201912.csv'      #--datepart abiding upper year boundary
-#--start of negative tests
-t9 = 'Suivi replication201501.csv' #--filename should start with "replication"(IGNORECASE)
-t10 = 'replication201501.csv'      #--datepart not preceded by space/dash/underscore
-t11 = 'Replication_201312.csv'     #--datepart violating lower year boundary 2014
-t12 = 'Replication_202001.csv'     #--datepart violating upper year boundary 2019
-t13 = 'Replication_201500.csv'     #--datepart not a valid month 
-t14 = 'Replication_201513.csv'     #--datepart not a valid month 
-t15 = 'Replication_201501.xls'     #--not a valid file extension
-t16 = 'brolReplication_201501.xls' #--filename not starting with replication
-t17 = 'Replication_201501brol.csv' #--filename not ending with YYYYMM datepart before extension
-#--loop thru list
-testlist = [t1,t2, t3, t4, t5, t6, t7, t8, t9, t10, t11, t12, t13, t14, t15, t16, t17]
 
-def validFileName(myFileName):
-    try:
-        assert (re.search\          #pattern
-                (r'(?P<prefix>^replication)(?P<delimiter>[\s|_|-])(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]csv$)',\ 
-                 myFileName,\       #in string
-                 re.IGNORECASE))\   #with flags
-                 is not None
+testDict ={
+#positive test cases
+'t1' : 'replication-201501.xls',      #--lowercase
+'t2' : 'REPLICATION-201501.xls',      #--uppercase
+'t3' : 'Replication-201501.xls',      #--mix lowercase uppercase
+'t4' : 'Replication 201501.xls',      #--datepart preceded by space
+'t5' : 'Replication_201501.xls',      #--datepart preceded by underscore
+'t6' : 'Replication-201501.xls',      #--datepart preceded by dash
+'t7' : 'replication201501.xls',       #--datepart not preceded by space/dash/underscore
+'t8' : 'replication-201401.xls',      #--datepart abiding lower year boundary
+'t9' : 'replication-201912.xls',      #--datepart abiding upper year boundary
+'t10': 'replication_201501.xlsx',     #--Excel stored in Open Office xml format
+'t11': 'Suivi replication201501.xls', #--filename should contain "replication" in prefixed segment
+#negative test cases
+'t12' : 'Replication_201312.xls',     #--datepart violating lower year boundary 2014
+'t13' : 'Replication_202001.xls',     #--datepart violating upper year boundary 2019
+'t14' : 'Replication_201500.xls',     #--datepart not a valid month 
+'t15' : 'Replication_201513.xls',     #--datepart not a valid month 
+'t16' : 'Replication_201501.csv',     #--not a valid file extension
+'t17' : 'Replication_201501brol.xls', #--filename not ending with YYYYMM datepart before extension
+}
+
+def validateREfindall(fileName):
+    pattern = r'(?P<prefix>[. ]*replication)(?P<delimiter>[_| |-]?)(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]xlsx?$)'
+    result = re.findall(pattern, fileName, re.I)
+    print(result) # returns a dictionary with tuples of matched groups, if any                 
+
+def validateREsearch(fileName): 
+    pattern = r'(?P<prefix>[. ]*replication)(?P<delimiter>[_| |-]?)(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]xlsx?$)'
+    result = re.search(pattern, fileName, re.I)
+    print(result.group(), result.groupdict())
         
-    except AssertionError:
-        #print ('Invalid FileNamePattern: ', myFileName, '\t', 'expecting: replication_YYYYMM.csv') # gaat dit naar stdout?
-        return False
-    else:
-        #searchObj = re.search(r'(?P<prefix>^replication)(?P<delimiter>[\s|_|-])(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]csv$)', myFileName, re.IGNORECASE)
-        #print ('BINGO! valid filename: ', '\t ', myFileName, '\t', 'datepart: ', datepart, '\t','year: ',searchObj.group('year'),'   month: ',searchObj.group('month'))
-        return True
-
 if __name__=='__main__':
-    for test in testlist:
-        datepart = test[12:18]
-        #validFileName(test)
-        """if validFileName(test):
-            print ('BINGO')"""
-        if validFileName(test):
-            print (test,'BINGO!')
+    for k,v in testDict.items():
+        print(k, end=' '), validateREfindall(v)
         
+    for k,v in testDict.items():
+        try:
+            print(k, end=' '), validateREsearch(v)
+        except AttributeError:
+            print("\t AttributeError: NoneType has no attribute 'group'")
+   
+    """
+    validateREfindall('replication-201501.xls')
+    validateREsearch('replication-201501.xls')
+    """
+    pattern = r'(?P<prefix>[. ]*replication)(?P<delimiter>[_| |-]?)(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]xlsx$)'
+    #positive test case loop
+    assert fName = re.findall(pattern, fName, re.I)[0]
+    assert re.search(pattern, fName, re.I) is not None
+    #negative test case loop
+    assert len(re.findall(pattern, fName, re.I) == 0
+    assert re.search(pattern, fName, re.I) is None
+    
 
-
-
-
-
-        
-        

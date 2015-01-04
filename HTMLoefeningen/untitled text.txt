@@ -1,5 +1,4 @@
 Tinkernut
-
 Website basics
 http://www.tinkernut.com/2012/01/13/make-a-complete-website-from-scratch-part-1-html/
-http://www.tinkernut.com/2012/01/21/make-a-complete-website-from-scratch-part-2-css/	wiki/Episode_305
+http://www.tinkernut.com/2012/01/21/make-a-complete-website-from-scratch-part-2-css/ wiki/Episode_305

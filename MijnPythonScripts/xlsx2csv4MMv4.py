@@ -27,6 +27,15 @@ from openpyxl import cell, load_workbook, Workbook, styles
 from openpyxl.cell import get_column_letter, coordinate_from_string
 from openpyxl.cell import column_index_from_string
 
+# on iMac24 at home
+# importdir = '/Users/walter/Documents/GitExercises/hello-world/MijnPythonScripts'
+# archivedir = '/Users/walter/Documents/GitExercises/hello-world/MijnPythonScripts/arch'
+#
+# on DellPC at work
+importdir = 'H:\9_Issue_investigation\JIRA\SUM-10648-ING-LUX-HA-EPIC\SUM-10923\Baserun_infiles'
+archivedir = 'H:\9_Issue_investigation\JIRA\SUM-10648-ING-LUX-HA-EPIC\SUM-10923\Baserun_outfiles_ARCH'
+# missing is a default importdir and target output+archive directory/ now implicit geneation of outfiles in importdir...
+
 
 def parseCmdLineInput():
     parser = argparse.ArgumentParser(description='\translate IR Exposure profile to IR Exposure replication trades')
@@ -36,12 +45,12 @@ def parseCmdLineInput():
 
 
 def validateInputFile(fName):
-    importdir = '/Users/walter/Documents/GitExercises/hello-world/MijnPythonScripts'
-    archivedir = '/Users/walter/Documents/GitExercises/hello-world/MijnPythonScripts/arch'
+
     # valid file name---------------------------#
     fileYYYYMM = ''
     pattern = r'(?P<prefix>[. ]*replication)(?P<delimiter>[_| |-]?)(?P<year>20[1][4-9])(?P<month>0[1-9]|1[0-2])(?P<extension>[.]xlsx$)'
     result = re.search(pattern, fName, re.I)
+    
     try:
         if result is None:
             raise RuntimeError
@@ -52,7 +61,7 @@ def validateInputFile(fName):
         fileYYYYMM = (result.groupdict()['year']+result.groupdict()['month'])
         pass
 
-    # file exists in importdir--------------#
+    # file does not exist in importdir----------#
     absoluteImportFile = os.path.join(importdir, fName)
     try:
         if not os.path.isfile(absoluteImportFile):
@@ -89,7 +98,7 @@ def validateInputFile(fName):
 
     # read access establised to Sheet1---------#
     os.chdir(importdir)
-    print(os.getcwd())
+    print('cwd', os.getcwd())
     wb = load_workbook(fName)
     sheetList = wb.get_sheet_names()
     try:
@@ -101,7 +110,10 @@ def validateInputFile(fName):
     else:
         pass
 
-    # Sheet1:cellA1 matches up to fname YYYYMM-----#
+    """
+    # considered "too defensive" programming style - remove
+    #
+    # Sheet1:cellA1 matches up to fname YYYYMM-----#  deze vlieger gaat niet opgaan
     try:
         ws1 = wb['Sheet1']
         c = ws1.cell('A1')
@@ -123,6 +135,7 @@ def validateInputFile(fName):
         raise()
     else:
         pass
+    """
 
     # Sheet1 content limits equal range A1:CJ11-----#
     try:
@@ -140,15 +153,16 @@ def validateInputFile(fName):
     print('lubooks:', lubooks)
     try:
         for el in lubooks:
-            if el not in ('PZ', 'RS', 'WS'):
-                raise NameError
+            if el not in ('PR', 'RS', 'WS'):
+
+                raise NameError()
             else:
                 continue
     except NameError:
         print('handled')
         raise()
 
-    # other non-blank sheets exist > raise warning--#
+    # other non-blank sheets exist > raise warning--#   misschien nok/ valt te zien
     wb = load_workbook(fName)
     wsList = wb.get_sheet_names()
     wsList.remove('Sheet1')
@@ -395,12 +409,12 @@ def exists(fName):
     
 
 def mainloop():
-    #inFile=parseCmdLineInput()
-    #validateInputFile('PROGNOSIS_Replication_201411.xlsx')
-    #processXls2Csv('Replication_201411.xlsx')
+    print('mainloop started')
+    inFile=parseCmdLineInput()
+    validateInputFile(inFile)
+    processXls2Csv(inFile)
     #iterateOverCoordinates()
     #assignFormulaToCell()
-    spielerei()
     #archiveProcessedFile()
     #--
     #emailPrognosis()

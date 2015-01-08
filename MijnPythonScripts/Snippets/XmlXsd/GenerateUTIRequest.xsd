@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2012 rel. 2 sp1 (x64) (http://www.altova.com) by CEDS (ING Global Procurement Bank) -->
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by ING Bank (ING Bank) -->
+<!-- Version History for GenerateUTIRequest.xsd: 
+26-11-13, MvH, v10 	New definition: First version of the GenerateUTIService request
+-->
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:fm="FinancialMarkets" targetNamespace="FinancialMarkets" elementFormDefault="unqualified" attributeFormDefault="unqualified">
+	<include schemaLocation="FMUTIServiceComplexTypes.xsd"/>
+	<element name="generateUTIRequest" type="fm:GenerateUTIRequest">
+		<annotation>
+			<documentation>root element of the message requesting processing of the transaction details contained within.</documentation>
+		</annotation>
+	</element>
+</schema>

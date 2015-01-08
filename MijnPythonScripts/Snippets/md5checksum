@@ -1,0 +1,4 @@
+import hashlib
+h= hashlib.md5(open("/Users/walter/Downloads/python275dmg").read()).hexdigest()
+print h
+

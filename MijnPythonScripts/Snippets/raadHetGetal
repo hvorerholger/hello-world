@@ -1,0 +1,25 @@
+#raad het getal
+import random
+
+print ('ik bedenk een getal tussen 1 en 20 en jij mag 6 keer raden om het te vinden')
+getal = str(random.randint(1,20))
+print('sneak preview '+str(getal))
+gokbeurt = 0
+
+print('doe een gokje')
+gok = str(raw_input())
+gokbeurt = gokbeurt+1
+
+while gokbeurt < 6:             #als je al 5 maal geraden hebt mag je nog 1 x raden ttz de lus in
+    if gok == getal:
+        print ('juist geraden in '+str(gokbeurt)+' beurten')
+        break
+
+    if gok != getal:
+        print ('fout, doe nog een gokje')
+        gok = str(raw_input())
+        gokbeurt = gokbeurt+1
+
+        
+if gokbeurt >= 6:
+    print('sorry, je hebt al 6 x geraden - het getal was '+str(getal))

@@ -1,0 +1,2 @@
+process: C:\Users\m07g862\AppData\Local\Apps\2.0\4QG33EZA.7AG\KOD83BNW.9ZO\summ...app_e0c8ad04c65d77b4_000e.02cb_ea840d1fea0b89f0\SummitFT.devamlonySUM1.exe  
+ -NOQUIT

@@ -1,0 +1,13 @@
+#sha1checksumForLargeFiles
+
+
+import hashlib
+block_size=256*160
+print block_size
+
+sha1 = hashlib.sha1()
+with open('/Users/walter/Downloads/kali-linux-1.0.5-i386.iso', 'rb') as f:
+    for chunk in iter(lambda: f.read(block_size), b''):
+        sha1.update(chunk)
+print sha1.hexdigest()
+

@@ -1,0 +1,47 @@
+(a1)
+from DOS command line using YunheDeliveredScriptDD201401107
+H:\9_Issue_investigation\JIRA\SUM-10648-ING-LUX-HA-EPIC\SUM-10923\Scripts>python.exe ./xlsx2csv4MM.py -I "H:\9_Issue_investigation\JIRA\SUM-10648-ING-LUX-HA-EPIC\SUM-10923\Baserun_infiles\Replication_201410.xlsx"
+
+or
+(a2)
+H:\GitLab\hello-world\MijnPythonScripts>python.exe xlsx2csv4MMv4.py -I H:\9_Issue_investigation\JIRA\SUM-10648-ING-LUX-HA-EPIC\SUM-10923\Baserun_infiles\Replication_201402.xlsx
+-->pb with fullname
+
+# -------------------------------
+
+(b1)from within IDLE F5 (after editing inline reference to infile/outfile) 
+H:\9_Issue_investigation\JIRA\SUM-10648-ING-LUX-HA-EPIC\SUM-10649\CSVtoXMLscripting\Scripts\csv2xml4MM_YZv2.py  dd. 20141007
+mind to copy/paste script in dir BaseRuns34 + to edit the script for input- and outfile references
+
+or 
+(b2)from DOS command line with ~vXX GIT helloworld- CLI 
+H:\GitLab\hello-world\MijnPythonScripts>python.exe csv2xml4MM_YZv4.py -I "H:\9_Issue_investigation\JIRA\SUM-10648-ING-LUX-HA-EPIC\SUM-10649\CSVtoXMLscripting\BaseRuns34\Replication 201411.csv"
+
+
+# -------------------------------
+ftp *.xml outfile
+
+# -------------------------------
+
+from Unix command line
+[] rerun-instructions/ need to cancel uploads from previous runs(cancel/ replace principle): 
+Filter Def TT=MM, Desk=LUDESK
+''sz110g9:kp09nr [/appl/summit-nfs/home/kp09nr/bin/LUX_MHhedges_2014] /appl/summit-nfs/RunSummit 1 tradeaction -F TALUCAN -A CANCEL -PM STANDARD./
+
+''sz110g9:kp09nr [/appl/summit-nfs/home/kp09nr/bin/LUX_MHhedges_2014] /appl/summit-nfs/RunSummit 1 trade_import -XML -I Replication_20140*.xml -NEWACT MKHYPO -COMMIT -PM STANDARD
+
+
+
+#############################
+DOS prompt
+H:\GitLab\hello-world\MijnPythonScripts>python.exe xlsx2csv4MMv5.py -I Replication_201412.xlsx [-SRC -DEST]
+
+H:\GitLab\hello-world\MijnPythonScripts>python.exe csv2xml4MMv5.py -I Replication_201412.csv  [-SRC -DEST]
+
+WinSCP to ftp file "Replication_201412.xml" from WIN to UNIX sz110g9:kp09nr $ /appl/summit-nfs/home/kp09nr/temp
+
+UNIX prompt
+sz110g9:kp09nr []/appl/summit-nfs] /appl/summit-nfs/RunSummit 1 tradeaction -F TALUCAN -A CANCEL -PM STANDARD
+
+sz110g9:kp09nr [/appl/summit-nfs/home/kp09nr/temp] /appl/summit-nfs/RunSummit 1 trade_import -XML -I ./Replication_201412.xml -NEWACT MKHYPO -COMMIT -PM STANDARD
+
